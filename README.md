@@ -1,3 +1,5 @@
+#PHP #MySql #HTML #CSS #Javascript #jQuery #Bootstrap
+
 - 👋 Hi, I’m @NarenderRajput
 - 👀 I’m interested in php development
 - 🌱 I’m currently learning php oops
