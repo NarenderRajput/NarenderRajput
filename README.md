@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @NarenderRajput
 - 👀 I’m interested in php development
-- 🌱 I’m currently learning php oops
+- 🌱 I’m currently practicing php oops
 - 💞️ I’m looking for an internship or entry level role in web development
 - 📫 Following are my contact details where you can connect with me:
     - ✍🏼 Mail: 1984royalrajput@gmail.com
