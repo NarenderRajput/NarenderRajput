@@ -8,5 +8,5 @@
     - ✍🏼 Mail: 1984royalrajput@gmail.com
     - 🧑‍💻 Skype: 1984royalrajput@gmail.com (live:.cid.3b40d4967551ca63)
     - 💼 LinkedIn: www.linkedin.com/in/narender-singh-072a65289
-    - 💼 Resume : https://lnkd.in/eyp84SDB
+    - 💼 Resume : [https://lnkd.in/eyp84SDB](https://drive.google.com/file/d/1KD61SbOdFBUQJm0YM__ciHqVyvasRZL7/view)
 
