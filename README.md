@@ -7,5 +7,6 @@
 - 📫 Following are my contact details where you can connect with me:
     - ✍🏼 Mail: 1984royalrajput@gmail.com
     - 🧑‍💻 Skype: 1984royalrajput@gmail.com (live:.cid.3b40d4967551ca63)
-    - 💼 LinkedIn: www.linkedin.com/in/narender-singh-072a65289 
+    - 💼 LinkedIn: www.linkedin.com/in/narender-singh-072a65289
+    - 💼 Resume : https://lnkd.in/eyp84SDB
 
